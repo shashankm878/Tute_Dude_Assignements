@@ -36,11 +36,11 @@ Task 2: Sum of Integers from 1 to 50
 Description:
 
 This Python program:
-    1. Uses a for loop to iterate from 1 to 50.
-    2. Calculates the total sum of these numbers.
-    3. Prints the final sum.
+  1.  Uses a for loop to iterate from 1 to 50.
+  2.  Calculates the total sum of these numbers.
+  3.  Prints the final sum.
 
 Logic:
-    1. Initialises sum to 0.
-    2. Loops from 0 to 50 (inclusive).
-    3. Adds each value to the sum.
+  1.  Initialises sum to 0.
+  2.  Loops from 0 to 50 (inclusive).
+  3.  Adds each value to the sum.

@@ -21,21 +21,21 @@ Assignment 2:
 Task 1: Check if a Number is Even or Odd
 Description:
 This Python program:
-    Takes an integer input from the user.
-    Checks whether the number is even or odd using the modulo operator (%).
-    Prints the result accordingly.
+    1. Takes an integer input from the user.
+    2. Checks whether the number is even or odd using the modulo operator (%).
+    3. Prints the result accordingly.
 Logic: 
-    Uses % 2 to check remainder.
-    If the remainder is not 0 → Odd.
-    If the remainder is 0 → Even.
+    1. Uses % 2 to check remainder.
+    2. If the remainder is not 0 → Odd.
+    3. If the remainder is 0 → Even.
 
 Task 2: Sum of Integers from 1 to 50
 Description:
 This Python program:
-    Uses a for loop to iterate from 1 to 50.
-    Calculates the total sum of these numbers.
-    Prints the final sum.
+    1. Uses a for loop to iterate from 1 to 50.
+    2. Calculates the total sum of these numbers.
+    3. Prints the final sum.
 Logic:
-    Initialises sum to 0.
-    Loops from 0 to 50 (inclusive).
-    Adds each value to the sum.
+    1. Initialises sum to 0.
+    2. Loops from 0 to 50 (inclusive).
+    3. Adds each value to the sum.

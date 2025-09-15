@@ -98,7 +98,60 @@ Sine = -0.7568024953079282
 
 [shashankm878](https://github.com/shashankm878)
 
-Logic:
-  1.  Initialises sum to 0.
-  2.  Loops from 0 to 50 (inclusive).
-  3.  Adds each value to the sum.
+
+
+
+
+
+
+# Assignment 5
+
+This directory contains solutions to two Python programming tasks for Assignment 5:
+
+- **Assignment 5 Task 1: Create a Dictionary of Student Marks**
+- **Assignment 5 Task 2: Demonstrate List Slicing**
+
+---
+
+## Assignment 5 Task 1: Create a Dictionary of Student Marks
+
+**Functionality:**
+- The program defines a dictionary named `student_marks` where student names are keys and their marks are values.
+- It prompts the user to enter a student's name.
+- If the entered name exists in the dictionary, the program displays the student's marks.
+- If the name does not exist, it displays a message: "Student not found."
+
+**Sample Output:**
+```
+Enter the student's name: Bob
+Bob's marks: 92
+```
+```
+Enter the student's name: John
+Student not found.
+```
+
+---
+
+## Assignment 5 Task 2: Demonstrate List Slicing
+
+**Functionality:**
+- The program creates a list of numbers from 1 to 10.
+- It extracts the first five elements of the list using slicing (`numbers[:5]`).
+- It reverses these extracted elements (`first_five[::-1]`).
+- It prints:
+  - The original list,
+  - The extracted sub-list,
+  - The reversed sub-list.
+
+**Sample Output:**
+```
+Original List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Extracted list: [1, 2, 3, 4, 5]
+Reversed list: [5, 4, 3, 2, 1]
+```
+
+## Author
+
+[shashankm878](https://github.com/shashankm878)
+
